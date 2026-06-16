@@ -1,0 +1,5 @@
+Metric,Direction,SHAP,LIME,IEI,Winner
+Fidelity,^ higher,1.0000 ± 0.0000,0.9348 ± 0.0073,N/A,SHAP
+Identity,^ higher,1.0000 ± 0.0000,0.0128 ± 0.0015,1.0000 ± 0.0000,tie
+Separability error,v lower,0.000686 ± 0.000183,0.004327 ± 0.000821,0.004736 ± 0.002347,SHAP
+Exec. time (s/inst),v lower,0.2911 ± 0.0613,0.0081 ± 0.0002,0.0004 ± 0.0001,IEI

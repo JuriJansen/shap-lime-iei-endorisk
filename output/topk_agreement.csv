@@ -1,0 +1,4 @@
+pair,top1_agreement,top5_jaccard,top5_intersection
+SHAP_LIME,0.4772,0.7286,3.6432
+SHAP_IEI,0.8462,0.7967,3.9834
+LIME_IEI,0.533,0.7205,3.6024

@@ -1,0 +1,4 @@
+method,n_instances,total_time_s,mean_per_instance_s
+SHAP,1000,319.694,0.319694
+LIME,1000,8.247,0.008247
+IEI,1000,0.295,0.000295
